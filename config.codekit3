@@ -103,18 +103,6 @@
 		"oAP": "\/build\/fonts\/icons.woff2",
 		"oF": 0
 		},
-	"\/html\/head.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/build\/html\/head.html",
-		"oF": 0
-		},
-	"\/html\/scripts.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/build\/html\/scripts.html",
-		"oF": 0
-		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 44770,
@@ -222,9 +210,9 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.kit": {
-		"ft": 2048,
-		"oA": 0,
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
 		"oAP": "\/build\/index.html",
 		"oF": 0
 		},

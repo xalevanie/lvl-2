@@ -1,6 +1,3 @@
-// @codekit-prepend "jquery.js";
-// @codekit-prepend "semantic.js";
-
 
 const secondHand = document.querySelector('.second-hand');
 const minsHand = document.querySelector('.min-hand');
